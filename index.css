@@ -1474,3 +1474,9 @@ opacity: 0.8;
 .tututu1:hover{
     cursor: pointer;
 }
+.foot-2-l-item li:hover{
+    cursor: pointer;
+}
+.foot-2-r:hover{
+    cursor: pointer;
+}
